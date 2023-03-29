@@ -1,0 +1,154 @@
+[
+	{
+		"id": 1,
+		"title": "Шоколадка",
+		"itemsInBox": 1,
+		"weight": 90,
+		"price": 17,
+		"imgSrc": "chocolate.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Масло",
+		"itemsInBox": 1,
+		"weight": 200,
+		"price": 50,
+		"imgSrc": "maslo.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Масло Оселка",
+		"itemsInBox": 1,
+		"weight": 500,
+		"price": 130,
+		"imgSrc": "maslooselta.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Молоко",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 30,
+		"imgSrc": "mleko.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Сир Гауда (Розрізаний)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 250,
+		"imgSrc": "sur.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Сир Фета",
+		"itemsInBox": 1,
+		"weight": 270,
+		"price": 45,
+		"imgSrc": "surfalafita.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Сир Ліліпут",
+		"itemsInBox": 1,
+		"weight": 350,
+		"price": 98,
+		"imgSrc": "surliliput.jpg"
+	},
+	{
+		"id": 8,
+		"title": "Йогурт",
+		"itemsInBox": 1,
+		"weight": 400,
+		"price": 30,
+		"imgSrc": "youugurt.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Сир Барон",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 238,
+		"imgSrc": "baron.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Сир Салямі (Serenada)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 251,
+		"imgSrc": "salami.png"
+	},
+	{
+		"id": 11,
+		"title": "Сир Натан (Polmlek)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 195,
+		"imgSrc": "natan.png"
+	},
+	{
+		"id": 12,
+		"title": "Моцарелла, сирний продукт, Польша",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 130,
+		"imgSrc": "moz.jpg"
+	},
+	{
+		"id": 13,
+		"title": "Monteverdi (Німеччина)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 240,
+		"imgSrc": "mozzarelamonteverdi.jpg"
+	},
+	{
+		"id": 14,
+		"title": "Моцарелла (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 230,
+		"imgSrc": "mozarella.png"
+	},
+	{
+		"id": 15,
+		"title": "Ementaler, RYKI (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 277,
+		"imgSrc": "ementalelr.jpg"
+	},
+	{
+		"id": 16,
+		"title": "Grana Padano (Італія)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 460,
+		"imgSrc": "granapadano.jpg"
+	},
+	{
+		"id": 17,
+		"title": "Ser Włoszczowski",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 248,
+		"imgSrc": "wlozovski.jpg"
+	},
+	{
+		"id": 18,
+		"title": "Krolewski (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 248,
+		"imgSrc": "krolevski.jpg"
+	},
+	{
+		"id": 19,
+		"title": "Krolewski z Kolna (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 275,
+		"imgSrc": "krolevskiskolna.jpg"
+	}
+]
