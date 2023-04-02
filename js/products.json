@@ -150,5 +150,245 @@
 		"weight": 1000,
 		"price": 275,
 		"imgSrc": "krolevskiskolna.jpg"
+	},
+	{
+		"id": 20,
+		"title": "Typu holdnderskiego (Польша)",
+		"itemsInBox": 1,
+		"weight": 3.32,
+		"price": 230,
+		"imgSrc": "holend.jpg"
+	},
+	{
+		"id": 21,
+		"title": "Typu Swichajarskiego (Польша)",
+		"itemsInBox": 1,
+		"weight": 4.239,
+		"price": 248,
+		"imgSrc": "swato.jpg"
+	},
+	{
+		"id": 22,
+		"title": "SER Gouda (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 268,
+		"imgSrc": "sergouda.jpg"
+	},
+	{
+		"id": 23,
+		"title": "Старий Голандец Твердий Сир (ТМ Komo)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 268,
+		"imgSrc": "komo.jpg"
+	},
+	{
+		"id": 24,
+		"title": "SER MAZDAMER (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 268,
+		"imgSrc": "mazdamer.jpg"
+	},
+	{
+		"id": 25,
+		"title": "Тенеро Мілк Сир (ТМ Komo) \"259грн\"; Фісташковий Твердий Сир (ТМ Komo) \"321грн\"",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 259,
+		"imgSrc": "tenerocombo.jpg"
+	},
+	{
+		"id": 26,
+		"title": "Тенеро Томат Сир (ТМ Komo)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 259,
+		"imgSrc": "tenero.jpg"
+	},
+	{
+		"id": 27,
+		"title": "Тенеро Базилік Сир (ТМ Komo)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 267,
+		"imgSrc": "tenerokomobaz.jpg"
+	},
+	{
+		"id": 28,
+		"title": "Monk (ТМ Клуб Сиру)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 313,
+		"imgSrc": "monk.jpg"
+	},
+	{
+		"id": 29,
+		"title": "Класичний (ТМ Клуб Сиру)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 230,
+		"imgSrc": "klubsur.jpg"
+	},
+	{
+		"id": 30,
+		"title": "Вершковий (ТМ Клуб Сиру)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 228,
+		"imgSrc": "klubversh.jpg"
+	},
+	{
+		"id": 31,
+		"title": "Karmat (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 218,
+		"imgSrc": "karmat.jpg"
+	},
+	{
+		"id": 32,
+		"title": "Gauda (ТМ Polmlek) (Польша)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 192,
+		"imgSrc": "polmlekgauda.jpg"
+	},
+	{
+		"id": 32,
+		"title": "Krymskyi (ТМ Клуб Сиру)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 279,
+		"imgSrc": "krymukr.jpg"
+	},
+	{
+		"id": 33,
+		"title": "Горіховий (ТМ Komo)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 243,
+		"imgSrc": "gorixkomo.jpg"
+	},
+	{
+		"id": 34,
+		"title": "Горіховий (ТМ Komo)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 243,
+		"imgSrc": "gorixkomo.jpg"
+	},
+	{
+		"id": 34,
+		"title": "Ivengo (ТМ Клуб Сиру)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 240,
+		"imgSrc": "ivengo.jpg"
+	},
+	{
+		"id": 35,
+		"title": "Сир твердий \"Пряжений\", зі смаком пряженого молока (ТМ Канів)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 234,
+		"imgSrc": "kaniv.jpg"
+	},
+	{
+		"id": 36,
+		"title": "Сметанковий (ТМ Вись)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 227,
+		"imgSrc": "vis.jpg"
+	},
+	{
+		"id": 37,
+		"title": "Горіховий",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 159,
+		"imgSrc": "gorix.jpg"
+	},
+	{
+		"id": 38,
+		"title": "Сир Твердий Голандський (ТМ Молочний Візит)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 202,
+		"imgSrc": "goland.jpg"
+	},
+	{
+		"id": 39,
+		"title": "Візит",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 237,
+		"imgSrc": "visit.jpg"
+	},
+	{
+		"id": 40,
+		"title": "Сир Твердий Український (ТМ Молочний Візит)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 201,
+		"imgSrc": "golandukr.jpg"
+	},
+	{
+		"id": 41,
+		"title": "Буковинський",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 204,
+		"imgSrc": "buk.jpg"
+	},
+	{
+		"id": 42,
+		"title": "Сир Твердий \"GOUDA\", (ТМ Молочний Візит)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 212,
+		"imgSrc": "goudamilkvis.jpg"
+	},
+	{
+		"id": 43,
+		"title": "Продукт молоковмісний, сир твердий \"Голандія\", з масовою часткою жиру в сухій речовині 45%",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 163,
+		"imgSrc": "golandz.jpg"
+	},
+	{
+		"id": 44,
+		"title": "Продукт молоковмісний, сир твердий \"Гауда\", з масовою часткою жиру в сухій речовині 45%",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 158,
+		"imgSrc": "gaudaz.jpg"
+	},
+	{
+		"id": 45,
+		"title": "Продукт молоковмісний сирний твердий \"Витязь\" 50% жиру ТМ \"Красноградский\"",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 156,
+		"imgSrc": "vutaz.jpg"
+	},
+	{
+		"id": 46,
+		"title": "Продукт молоковмісний сирний твердий \"Витязь\" 50% жиру ТМ \"Красноградский\"",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 156,
+		"imgSrc": "vutaz.jpg"
+	},
+	{
+		"id": 47,
+		"title": "Продукт молоковмісний Радомишльський, 50%",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 141,
+		"imgSrc": "radomsl.jpg"
 	}
 ]
