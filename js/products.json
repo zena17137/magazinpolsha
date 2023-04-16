@@ -422,5 +422,13 @@
 		"weight": 1000,
 		"price": "",
 		"imgSrc": "plavsur.jpg"
+	},
+	{
+		"id": 53,
+		"title": "Сир Твердий Королівський (ТМ Вись)",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 267,
+		"imgSrc": "zal.jpg"
 	}
 ]
